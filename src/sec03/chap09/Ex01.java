@@ -7,7 +7,7 @@ public class Ex01 {
         var charLet = 'A';
         var StringWord = "안녕하세요";
 
-        var notInit;
-        var nullVar = null;
+//        var notInit;
+//        var nullVar = null;
     }
 }
