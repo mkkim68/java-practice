@@ -2,7 +2,7 @@ package sec04.chap03;
 
 public class Ex05 {
     static void main(String[] args) {
-        
+
         for (int i = 0; i < 100; i++) {
 
             //  💡 continue : 한 루프만 건너뜀
